@@ -37,7 +37,7 @@
     "async": "^2.1.4",
     "char-spinner": "^1.0.1",
     "lodash": "^4.17.2",
-    "npm-package-arg": "^4.2.0",
+    "npm-package-arg": "^7.0.0",
     "once": "^1.4.0",
     "registry-url": "^3.1.0",
     "request": "^2.79.0",
